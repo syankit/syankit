@@ -1,4 +1,4 @@
-[![MasterHead](https://export-download.canva.com/hyiRo/DAE8qghyiRo/6/0/0001-22779431536.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220401%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220401T023722Z&X-Amz-Expires=63420&X-Amz-Signature=dcda1d38b57430e4936ec56cf62b6fbf29e269b9cec9535fccbbb89184b2249c&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Yellow%2520Professional%2520Gradient%2520App%2520Development%2520Mind%2520Map%2520Graph.jpg&response-expires=Fri%2C%2001%20Apr%202022%2020%3A14%3A22%20GMT)](https://github.com/syankit)
+[![MasterHead](C:\Users\SANJAY KUMAR SINGH\OneDrive\Desktop\WEBSITE\TEAM INFO)](https://github.com/syankit)
 
 <h1 align="center">Hi 👋, I'm SYANKITA</h1>
 <h3 align="center">A passionate CSE student from India who loves to explore new fields .</h3>
