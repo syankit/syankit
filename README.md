@@ -1,4 +1,4 @@
-[![MasterHead](C:\Users\SANJAY KUMAR SINGH\OneDrive\Desktop\WEBSITE\TEAM INFO)](https://github.com/syankit)
+
 
 <h1 align="center">Hi 👋, I'm SYANKITA</h1>
 <h3 align="center">A passionate CSE student from India who loves to explore new fields .</h3>
