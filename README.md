@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=syankita&label=Profile%20views&color=0e75b6&style=flat" alt="syankita" />
+<img src="C:\Users\SANJAY KUMAR SINGH\OneDrive\Desktop\WEBSITE\TEAM INFO" alt="syankita" />
 
 <h1 align="center">Hi 👋, I'm SYANKITA</h1>
 <h3 align="center">A passionate CSE student from India who loves to explore new fields .</h3>
