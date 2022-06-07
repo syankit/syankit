@@ -1,4 +1,4 @@
-<img src="C:\Users\SANJAY KUMAR SINGH\OneDrive\Desktop\WEBSITE\TEAM INFO" alt="syankita" />
+<img src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/191:100/w_2400,h_1256,c_limit/Coding-Becomes-Criminal.jpg" alt="syankita" />
 
 <h1 align="center">Hi 👋, I'm SYANKITA</h1>
 <h3 align="center">A passionate CSE student from India who loves to explore new fields .</h3>
