@@ -1,14 +1,8 @@
-<img src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/191:100/w_2400,h_1256,c_limit/Coding-Becomes-Criminal.jpg" alt="syankita" />
-
 <h1 align="center">Hi 👋, I'm SYANKITA</h1>
 <h3 align="center">A passionate CSE student from India who loves to explore new fields .</h3>
+<img src="https://media.wired.com/photos/5cc244c9af643e2f373ebb28/191:100/w_2400,h_1256,c_limit/Coding-Becomes-Criminal.jpg" alt="syankita" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syankita&label=Profile%20views&color=0e75b6&style=flat" alt="syankita" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syankita" alt="syankita" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.worldbook.com/images/WBBlog_KidsCoding.jpg">
 - 🌱 I’m currently learning **Web development , Blockchain**
 
 - 📫 How to reach me **syankitas1d@gmail.com**
