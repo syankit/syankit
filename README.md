@@ -5,14 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syankita&label=Profile%20views&color=0e75b6&style=flat" alt="syankita" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://www.worldbook.com/images/WBBlog_KidsCoding.jpg">
-- 🌱 I’m currently learning **Web development , Blockchain**
-
-- 📫 How to reach me **syankitas1d@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JZARVFqrDL3AmFJEavurWAzXEt3f2WYf_YF6JRdjAF8/edit#](https://docs.google.com/document/d/1JZARVFqrDL3AmFJEavurWAzXEt3f2WYf_YF6JRdjAF8/edit#)
-
-- ⚡ Fun fact **I think I am funny XD**
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2b/45/e6/2b45e698dc48fdac0d059f961bf9e370.gif">
+ <ul>
+    <li>🌱 I’m currently learning <strong>Web development, App development, Blockchain</strong></li>
+    <li>📫 How to reach me: <a href="mailto:syankitas1d@gmail.com">syankitas1d@gmail.com</a></li>
+    <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1Ql6TSQ59t9LqSF-58XOt2cq9MeUHl_k_/view?usp=sharing">My Document</a></li>
+    <li>⚡ Fun fact: I think I am funny XD</li>
+  </ul>
 
 
 <h3 align="left">Connect with me:</h3>
